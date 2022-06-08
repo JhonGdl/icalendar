@@ -1,8 +1,8 @@
 {
 	"repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/JhonGdl/icalendar.git"
-    }
-],
+		{
+			"type": "vcs",
+			"url": "https://github.com/JhonGdl/icalendar.git"
+		}
+	]
 }
