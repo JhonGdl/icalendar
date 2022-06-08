@@ -1,8 +1,9 @@
 {
+	"name": "jhongdl/icalendar",
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "https://github.com/JhonGdl/icalendar.git"
+			"url": "https://github.com/JhonGdl/icalendar.git",
 		}
 	]
 }
